@@ -308,6 +308,7 @@ body.lock {
 @media (max-width: 480.98px) {
   .alphawood {
     min-height: 615px;
+    height: calc(100vh - 45px);
   }
 }
 .alphawood__image-block {
@@ -1210,6 +1211,7 @@ body.lock {
   .wave-dresser-4 .alphawood__content-line-block {
     left: auto;
     right: 0;
+    height: calc(100% - 29px);
   }
 }
 .wave-dresser-4 .alphawood__content-line.animate__animated {
@@ -1571,6 +1573,12 @@ body.lock {
   .wave-dresser-5 .alphawood__furniture {
     bottom: -25.5px;
     left: -27px;
+  }
+}
+@media (max-width: 480.98px) {
+  .wave-dresser-5 .alphawood__furniture {
+    left: -27.2px;
+    bottom: -25px;
   }
 }
 .wave-dresser-5 .alphawood__title.animate__animated {
