@@ -308,7 +308,7 @@ body.lock {
 @media (max-width: 480.98px) {
   .alphawood {
     min-height: 615px;
-    height: calc(100vh - 45px);
+    height: calc(100vh - 40px);
   }
 }
 .alphawood__image-block {
@@ -928,8 +928,8 @@ body.lock {
 }
 @media (max-width: 480.98px) {
   .wave-dresser-3 .alphawood__content-inner {
-    padding: 18% 25px 0 0;
-    height: 304px;
+    padding: 16% 25px 0 0;
+    height: 290px;
   }
 }
 @media (max-width: 380px) {
@@ -1211,7 +1211,7 @@ body.lock {
   .wave-dresser-4 .alphawood__content-line-block {
     left: auto;
     right: 0;
-    height: calc(100% - 29px);
+    height: calc(100% - 28px);
   }
 }
 .wave-dresser-4 .alphawood__content-line.animate__animated {
@@ -1577,7 +1577,7 @@ body.lock {
 }
 @media (max-width: 480.98px) {
   .wave-dresser-5 .alphawood__furniture {
-    left: -27.2px;
+    left: -27.3px;
     bottom: -25px;
   }
 }
